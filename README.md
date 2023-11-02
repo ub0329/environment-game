@@ -8,6 +8,11 @@
 - 내용: 귀여운 친구들이 밀실에 갇히게 되지만 쓰레기 정리, 콘센트 뽑기, 분리수거, 환경 퀴즈 등의 다양한 미션을 클리어해야 열쇠를 얻고 나갈 수 있다.
 - 어린이들을 대상으로 만든 환경 교육용 게임
 
+## 조작법
+- 이동:awsd
+- 점프:spacebar
+- 클릭:left mouse
+
 ## 캐릭터 선택
 ![image](https://github.com/ub0329/environment-game/assets/112606772/27f3aaaa-96b7-4dbf-b662-716f9f2a640f)
 ![image](https://github.com/ub0329/environment-game/assets/112606772/df8be194-d96a-40c5-ae55-11e1a82cee6c)
@@ -28,6 +33,11 @@
 ![image](https://github.com/ub0329/environment-game/assets/112606772/31bc0150-6bed-43e3-9175-8ee9f1fc060b)
 -
 - 박테리아 제거, 분리수거 등 미니 게임
+
+## 개발 부분
+- 캐릭터 움직임과 애니메이션 구현
+- 캐릭터 대기실과 캐릭터 선택 구현
+- 미니게임인 미로 게임 구현
 
 ***
 
